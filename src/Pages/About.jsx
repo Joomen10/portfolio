@@ -21,7 +21,7 @@ const Header = memo(() => (
       data-aos-duration="800"
     >
       <Sparkles className="w-5 h-5 text-purple-400" />
-      Transforming ideas into digital experiences
+      Transforming data into meaningful insights
       <Sparkles className="w-5 h-5 text-purple-400" />
     </p>
   </div>
@@ -205,7 +205,7 @@ const AboutPage = () => {
                 data-aos="fade-right"
                 data-aos-duration="1300"
               >
-                Eki Zulfar Rachman
+                Christopher Park
               </span>
             </h2>
             
@@ -214,14 +214,15 @@ const AboutPage = () => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-              seorang siswa Teknik Jaringan Komputer dan Telekomunikasi yang
-              tertarik dalam pengembangan Front-End. Saya berfokus pada
-              menciptakan pengalaman digital yang menarik dan selalu berusaha
-              memberikan solusi terbaik dalam setiap proyek.
+              I'm passionate about leveraging data to uncover valuable insights and eager to apply my skills 
+              in real-world scenarios. With a strong foundation in programming and data analysis, 
+              I bring a blend of technical expertise and an analytical mindset. 
+              I'm excited to explore opportunities where I can contribute 
+              to innovative projects and further enhance my skills in the dynamic field of technology.
             </p>
 
             <div className="flex flex-col lg:flex-row items-center lg:items-start gap-4 lg:gap-4 lg:px-0 w-full">
-              <a href="https://drive.google.com/drive/folders/1BOm51Grsabb3zj6Xk27K-iRwI1zITcpo" className="w-full lg:w-auto">
+              <a href="https://drive.google.com/file/d/1q9cnc6osMO5s_SzXAPMym3hDZGH_pWGd/view?usp=sharing" className="w-full lg:w-auto">
               <button 
                 data-aos="fade-up"
                 data-aos-duration="800"

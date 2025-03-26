@@ -183,7 +183,7 @@ const Home = () => {
                 <p className="text-base md:text-lg text-gray-400 max-w-xl leading-relaxed font-light"
                   data-aos="fade-up"
                   data-aos-delay="1000">
-                  Hello, Im Christopher Park, a senior at New York University majoring in Data Science & Computer Science
+                  Christopher Park, a Fourth-year Student at New York University majoring in Data Science & Computer Science
                 </p>
 
                 {/* Tech Stack */}
