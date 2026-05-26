@@ -21,9 +21,9 @@ const socialLinks = [
   {
     name: "Instagram",
     displayName: "Instagram",
-    subText: "@chris.pkk",
+    subText: "@",
     icon: Instagram,
-    url: "https://www.instagram.com/chris.pkk",
+    url: "https://www.instagram.com/",
     color: "#E4405F",
     gradient: "from-[#833AB4] via-[#E4405F] to-[#FCAF45]"
   },
